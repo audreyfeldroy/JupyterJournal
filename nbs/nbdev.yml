@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "JupyterJournal"
+  site-url: "https://audreyfeldroy.github.io/JupyterJournal"
+  description: "Effortlessly transform Jupyter notebooks into beautiful blog posts with auto-generated HTML."
+  repo-branch: main
+  repo-url: "https://github.com/audreyfeldroy/JupyterJournal"
